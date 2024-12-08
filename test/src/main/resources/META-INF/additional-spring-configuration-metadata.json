@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "com.memariyan.components.test.wiremock",
+      "description": "The map of wiremock containers."
+    }
+  ]
+}

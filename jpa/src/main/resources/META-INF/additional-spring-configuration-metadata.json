@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "com.memariyan.components.jpa.attribute-encryption-key",
+      "defaultValue": "ThisIsASecretKey",
+      "description": "The attribute data encryption key."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "name": "com.memariyan.components.test",
+      "type": "com.memariyan.components.test.config.TestProperties",
+      "sourceType": "com.memariyan.components.test.config.TestProperties"
+    },
+    {
+      "name": "com.memariyan.components.test.mariadb",
+      "type": "com.memariyan.components.test.config.TestProperties$MariaDBConfigs",
+      "sourceType": "com.memariyan.components.test.config.TestProperties"
+    },
+    {
+      "name": "com.memariyan.components.test.mysql",
+      "type": "com.memariyan.components.test.config.TestProperties$MySQLConfigs",
+      "sourceType": "com.memariyan.components.test.config.TestProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.memariyan.components.test.mariadb.db-name",
+      "type": "java.lang.String",
+      "sourceType": "com.memariyan.components.test.config.TestProperties$MariaDBConfigs"
+    },
+    {
+      "name": "com.memariyan.components.test.mysql.db-name",
+      "type": "java.lang.String",
+      "sourceType": "com.memariyan.components.test.config.TestProperties$MySQLConfigs"
+    },
+    {
+      "name": "com.memariyan.components.test.wiremock",
+      "type": "java.util.Map<java.lang.String,com.memariyan.components.test.config.TestProperties$WiremockConfigs>",
+      "description": "The map of wiremock containers.",
+      "sourceType": "com.memariyan.components.test.config.TestProperties"
+    }
+  ],
+  "hints": []
+}

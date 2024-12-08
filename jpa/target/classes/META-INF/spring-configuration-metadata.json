@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "name": "com.memariyan.components.jpa",
+      "type": "com.memariyan.components.jpa.config.JpaProperties",
+      "sourceType": "com.memariyan.components.jpa.config.JpaProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.memariyan.components.jpa.attribute-encryption-key",
+      "type": "java.lang.String",
+      "description": "The attribute data encryption key.",
+      "sourceType": "com.memariyan.components.jpa.config.JpaProperties",
+      "defaultValue": "ThisIsASecretKey"
+    }
+  ],
+  "hints": []
+}

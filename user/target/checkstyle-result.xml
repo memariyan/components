@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.2">
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/UserComponentAutoConfig.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/config/KeycloakProperties.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/idp/impl/KeycloakIdentityProvider.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/idp/IdentityProvider.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/idp/model/response/IdentityResponse.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/idp/model/response/IdpUserRegisterResult.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/idp/model/request/IdpUserRegisterModel.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/idp/model/request/IdpChangePasswordModel.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/user/impl/BaseUserServiceImpl.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/user/UserService.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/user/mapper/impl/DefaultUserServiceMapperImpl.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/user/mapper/UserServiceMapper.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/user/model/BaseUserModel.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/user/model/BaseUserResult.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/user/model/UserExistenceResult.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/user/model/ChangePasswordModel.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/user/model/UserRegisterResult.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/account/AccountService.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/account/model/AccountModel.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/service/account/model/AccountResult.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/domain/enums/UserStatus.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/domain/BaseUserRepository.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/domain/BaseUser.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/presentation/api/mapper/BaseUserControllerMapper.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/presentation/api/mapper/impl/DefaultUserControllerMapperImpl.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/presentation/api/BaseUserAdminController.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/presentation/api/BaseUserController.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/presentation/api/model/response/BaseUserResponse.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/presentation/api/model/request/ChangePasswordRequest.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/presentation/api/model/request/IdpUserRegisterRequest.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/presentation/api/model/request/BaseUserInfoRequest.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/presentation/api/model/request/ProfileUpdateUserRequest.java">
+</file>
+<file name="/Users/mohammad/IdeaProjects/temp5/components/user/src/main/java/com/memariyan/components/user/presentation/api/model/request/BaseUserRegisterRequest.java">
+</file>
+</checkstyle>

@@ -1,0 +1,50 @@
+{
+  "groups": [
+    {
+      "name": "com.memariyan.components.user.keycloak",
+      "type": "com.memariyan.components.user.config.KeycloakProperties",
+      "sourceType": "com.memariyan.components.user.config.KeycloakProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.memariyan.components.user.keycloak.admin-client-id",
+      "type": "java.lang.String",
+      "description": "Keycloak admin client id.",
+      "sourceType": "com.memariyan.components.user.config.KeycloakProperties",
+      "defaultValue": "admin-cli"
+    },
+    {
+      "name": "com.memariyan.components.user.keycloak.admin-password",
+      "type": "java.lang.String",
+      "description": "Keycloak admin password.",
+      "sourceType": "com.memariyan.components.user.config.KeycloakProperties",
+      "defaultValue": "admin"
+    },
+    {
+      "name": "com.memariyan.components.user.keycloak.admin-realm",
+      "type": "java.lang.String",
+      "sourceType": "com.memariyan.components.user.config.KeycloakProperties"
+    },
+    {
+      "name": "com.memariyan.components.user.keycloak.admin-username",
+      "type": "java.lang.String",
+      "description": "Keycloak admin username.",
+      "sourceType": "com.memariyan.components.user.config.KeycloakProperties",
+      "defaultValue": "admin"
+    },
+    {
+      "name": "com.memariyan.components.user.keycloak.realm",
+      "type": "java.lang.String",
+      "description": "Keycloak realm.",
+      "sourceType": "com.memariyan.components.user.config.KeycloakProperties"
+    },
+    {
+      "name": "com.memariyan.components.user.keycloak.url",
+      "type": "java.lang.String",
+      "description": "Keycloak server url.",
+      "sourceType": "com.memariyan.components.user.config.KeycloakProperties"
+    }
+  ],
+  "hints": []
+}

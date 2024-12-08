@@ -1,0 +1,3 @@
+com.memariyan.components.search.JpaSearchAutoConfiguration
+com.memariyan.components.search.MongoSearchAutoConfiguration
+com.memariyan.components.search.ExportAutoConfiguration

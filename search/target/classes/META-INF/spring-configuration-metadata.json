@@ -1,0 +1,29 @@
+{
+  "groups": [
+    {
+      "name": "com.memariyan.components.export",
+      "type": "com.memariyan.components.search.config.ExportProperties",
+      "sourceType": "com.memariyan.components.search.config.ExportProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.memariyan.components.export.enabled",
+      "description": "Export functionality feature flag.",
+      "defaultValue": false
+    },
+    {
+      "name": "com.memariyan.components.export.max-size",
+      "type": "java.lang.Integer",
+      "description": "Export records max size.",
+      "sourceType": "com.memariyan.components.search.config.ExportProperties",
+      "defaultValue": 250
+    },
+    {
+      "name": "com.memariyan.components.search.enabled",
+      "description": "Search functionality feature flag.",
+      "defaultValue": true
+    }
+  ],
+  "hints": []
+}

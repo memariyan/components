@@ -1,0 +1,6 @@
+META-INF/spring-configuration-metadata.json
+com/memariyan/components/jpa/entity/BaseJpaAuditableEntity.class
+com/memariyan/components/jpa/converter/AttributeEncryptionConverter.class
+com/memariyan/components/jpa/config/JpaProperties.class
+com/memariyan/components/jpa/JpaComponentAutoConfig.class
+com/memariyan/components/jpa/entity/JpaBaseEntity.class

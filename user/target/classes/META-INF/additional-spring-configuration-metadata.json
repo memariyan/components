@@ -1,0 +1,27 @@
+{
+  "properties": [
+    {
+      "name": "com.memariyan.components.user.keycloak.url",
+      "description": "Keycloak server url."
+    },
+    {
+      "name": "com.memariyan.components.user.keycloak.realm",
+      "description": "Keycloak realm."
+    },
+    {
+      "name": "com.memariyan.components.user.keycloak.admin-username",
+      "description": "Keycloak admin username.",
+      "defaultValue": "admin"
+    },
+    {
+      "name": "com.memariyan.components.user.keycloak.admin-password",
+      "description": "Keycloak admin password.",
+      "defaultValue": "admin"
+    },
+    {
+      "name": "com.memariyan.components.user.keycloak.admin-client-id",
+      "description": "Keycloak admin client id.",
+      "defaultValue": "admin-cli"
+    }
+  ]
+}

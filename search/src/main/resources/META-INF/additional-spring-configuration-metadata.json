@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "com.memariyan.components.search.enabled",
+      "description": "Search functionality feature flag.",
+      "defaultValue": true
+    },
+    {
+      "name": "com.memariyan.components.export.enabled",
+      "description": "Export functionality feature flag.",
+      "defaultValue": false
+    },
+    {
+      "name": "com.memariyan.components.export.max-size",
+      "description": "Export records max size.",
+      "defaultValue": 250
+    }
+  ]
+}
